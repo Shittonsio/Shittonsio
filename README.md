@@ -11,5 +11,5 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://discord.com/invite/X4amhVpbXp" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="https://discord.com/invite/X4amhVpbXp" height="30" width="40" /></a>
-</p> <a href="https://www.youtube.com/channel/UC3Wj6QZahDq4Cz7e4sB54Cg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3wj6qzahdq4cz7e4sb54cg" height="30" width="40" /></a>
+</p> <a href="https://www.youtube.com/channel/UC3Wj6QZahDq4Cz7e4sB54Cg" target="blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3wj6qzahdq4cz7e4sb54cg" height="30" width="40" /></a>
  
