@@ -1,5 +1,5 @@
 <h1 align="center">Hi, i'm Shitty 👋 but you can call me "God" 🙏</h1>
-<h3 align="center">👉 Web developer (fullstack), passionate about Low-level programming language, Linux and cybersecurity.</h3>
+<h3 align="center">👉 Web developer (fullstack), passionate about Low-level programming language, Linux and cybersecurity 👈</h3>
 
 <br>
 
