@@ -10,5 +10,5 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://discord.com/invite/X4amhVpbXp" target="_blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="https://discord.com/invite/X4amhVpbXp" height="50" width="50" /></a> <a href="https://www.youtube.com/channel/UC3Wj6QZahDq4Cz7e4sB54Cg" target="_blank"><img align="center" src="https://radiokalor.com/youtube_PNG102349.png" alt="https://www.youtube.com/channel/uc3wj6qzahdq4cz7e4sb54cg" height="60" width="70" /></a></p>
+<a href="https://discord.com/invite/X4amhVpbXp" target="_blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="https://discord.com/invite/X4amhVpbXp" height="50" width="50" /></a> <a href="https://www.youtube.com/channel/UC3Wj6QZahDq4Cz7e4sB54Cg" target="_blank"><img align="center" src="https://radiokalor.com/youtube_PNG102349.png" alt="https://www.youtube.com/channel/uc3wj6qzahdq4cz7e4sb54cg" height="55" width="70" /></a></p>
  
